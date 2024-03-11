@@ -5,8 +5,8 @@ def home(request):
     if request.method=="POST":
         first_name=request.POST['fname']
         second_name=request.POST['lname']
-        first_name.lower()
-        second_name.lower()
+        first_name=first_name.lower()
+        second_name=second_name.lower()
         s=list(second_name)
         n=0
         f=["f","l","a","m","e","s"]
