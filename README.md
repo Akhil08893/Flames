@@ -3,4 +3,3 @@ Welcome to the Flames Django Project! This project is a web application built us
 
 <h1>Video Demonstration</h1>
 
-https://github.com/Akhil08893/Flames/assets/134779287/1684ca3b-c968-46d9-8673-9ec75c1fe27a
